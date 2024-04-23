@@ -1,6 +1,6 @@
 {
-  "name": "@alishba/atm-machine",
-  "version": "2.0.2",
+  "name": "@alishba4413/alishba_atm-machine",
+  "version": "2.0.1",
   "description": "\"Efficient ATM simulation project.\" please do check my project.",
   "main": "index.js",
   "type": "module",
